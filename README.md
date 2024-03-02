@@ -7,7 +7,8 @@
 
 - ⚡ Dato curioso **soy baterista**
 
-<h3 align="left">Conéctate conmigo:</h3>
+<h3 align="left">Conéctate conmigo:
+</h3>
 <p align="left" >
 <a href="https://instagram.com/angel_george143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- generador/master/src/images/icons/Social/instagram.svg" alt="angel_george143" height="30" width="40" /></a> </p>
 
